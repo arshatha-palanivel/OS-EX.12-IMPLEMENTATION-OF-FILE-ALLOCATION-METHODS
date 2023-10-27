@@ -63,6 +63,7 @@ getch();
 ``````
 ## OUTPUT
 
+![12 1](https://github.com/arshatha-palanivel/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118682484/98f7f73b-cff2-487a-b1df-8ec85a510a79)
 
 ## RESULT
 Thus, file management using sequential list is implemented successfully.
@@ -104,6 +105,7 @@ printf("\n");
 ``````
 ## OUTPUT
 
+![12 2](https://github.com/arshatha-palanivel/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118682484/02058cc8-2876-46d7-89fc-bb0b68468748)
 
 ## RESULT
 Thus, file management using indexed list is implemented successfully.
@@ -160,6 +162,7 @@ x:
 
 ## OUTPUT
 
+![12 3](https://github.com/arshatha-palanivel/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/118682484/b4b4e31e-be84-4631-9856-017f70ae9fcf)
 
 ## RESULT
 Thus, file management using linked list is implemented successfully.
